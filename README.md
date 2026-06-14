@@ -18,4 +18,4 @@ This project implements a 2:4 Decoder using Verilog HDL. The decoder converts a 
 
 ## Author
 Manasa Mytri
-![DECODER waveform](decoder_waceform.png)
+![DECODER waveform](decoder_waveform.png)
